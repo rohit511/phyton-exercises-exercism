@@ -1,1 +1,1 @@
-# phyton-exercis-exercism
+# phyton-exercise-exercism
